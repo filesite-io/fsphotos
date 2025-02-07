@@ -2,7 +2,7 @@
 
 一个基于PHP的轻量级相册网站程序，帮你把图片、视频目录变成网站并保持原有的目录结构。
 
-[在平板电脑中打开FS相册示例](./imgs/pad_demo.jpg)
+[!在平板电脑中打开FS相册示例](./imgs/pad_demo.jpg)
 
 
 ## 跟Filesite/Machete的关系
