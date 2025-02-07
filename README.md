@@ -58,8 +58,20 @@
 
 待尝试：
 
-* PHP Composer类库：DirScanner
-* JS生成图片、视频缩略图：JSSnapper
+* PHP扫描图片、视频目录类库：DirScanner
+* javascript生成图片、视频缩略图：JSSnapper
+
+
+### 跟个人/家庭相册相关的文章
+
+待尝试。
+
+
+
+### 相关书籍
+
+待尝试。
+
 
 
 ## 用户反馈
