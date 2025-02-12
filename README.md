@@ -60,13 +60,15 @@ FS相册示例：
 
 待尝试：
 
-* PHP扫描图片、视频目录类库：DirScanner
+* PHP扫描图片、视频目录类库：[PHP DirScanner](https://github.com/filesite-io/dirscanner)
 * javascript生成图片、视频缩略图：JSSnapper
 
 
 ### 跟个人/家庭相册相关的文章
 
 待尝试。
+
+* [PHP递归扫描图片、视频等目录类库DirScanner使用介绍](./PHP递归扫描图片视频等目录类库DirScanner使用介绍.md)
 
 
 
