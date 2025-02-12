@@ -68,7 +68,7 @@ FS相册示例：
 
 待尝试。
 
-* [PHP递归扫描图片、视频等目录类库DirScanner使用介绍](./PHP递归扫描图片视频等目录类库DirScanner使用介绍.md)
+* [PHP递归扫描图片、视频等目录类库DirScanner使用介绍](./articles/PHP递归扫描图片视频等目录类库DirScanner使用介绍.md)
 
 
 
