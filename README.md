@@ -58,10 +58,9 @@ FS相册示例：
 
 ### 源码
 
-待尝试：
+尝试中。
 
 * PHP扫描图片、视频目录类库：[PHP DirScanner](https://github.com/filesite-io/dirscanner)
-* javascript生成图片、视频缩略图：JSSnapper
 
 
 ### 跟个人/家庭相册相关的文章
@@ -70,6 +69,8 @@ FS相册示例：
 
 * [PHP递归扫描图片、视频等目录类库DirScanner使用介绍](./articles/PHP递归扫描图片视频等目录类库DirScanner使用介绍.md)
 * [个人数据相关领域趋势推测一二](./articles/个人数据相关领域趋势推测一二.md)
+* [苹果手机iPhone存储空间不够了，照片和视频怎么保存？](./articles/苹果手机iPhone存储空间不够了照片和视频怎么保存.md)
+* [搭建并运营一个视频/电影小网站需要花多少钱？](./articles/搭建并运营一个视频或电影小网站需要花多少钱.md)
 
 
 ### 相关书籍
